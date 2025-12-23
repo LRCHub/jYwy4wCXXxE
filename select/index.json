@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "肉魔法 (2011 remaster)",
+  "base_artist": "神聖かまってちゃん",
+  "createdAt": "2025-12-23T23:10:15.821169Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "肉魔法",
+      "artist": "Shinsei Kamattechan feat. 赤飯",
+      "has_synced": false,
+      "path": "select/01_肉魔法_Shinsei_Kamattechan_feat._赤飯.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "肉魔法",
+      "artist": "Shinsei Kamattechan feat. Sekihan",
+      "has_synced": false,
+      "path": "select/02_肉魔法_Shinsei_Kamattechan_feat._Sekihan.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "肉魔法",
+      "artist": "神聖かまってちゃん",
+      "has_synced": false,
+      "path": "select/pl_01_肉魔法_神聖かまってちゃん.txt"
+    }
+  ]
+}
